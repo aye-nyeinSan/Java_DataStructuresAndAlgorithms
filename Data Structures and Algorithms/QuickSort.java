@@ -41,7 +41,7 @@ public class QuickSort {
         int arr[]={4,2,6,5,3,9};
         int length=arr.length-1;
         quickSort(arr, 0, length);
-        System.out.println("Sorted: ");
+        System.out.print("Sorted: ");
         printArray(arr);
     }
     
