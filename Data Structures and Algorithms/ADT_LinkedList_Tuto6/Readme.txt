@@ -1,1 +1,3 @@
-This repo is about the data structure of linkedlist( My first year course ,data structure and algorithm )
+### 1. How to compile and run ?
+`javac testVaccine.java
+java testVaccine`
