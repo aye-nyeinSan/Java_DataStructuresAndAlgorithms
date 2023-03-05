@@ -25,10 +25,10 @@ public class testVaccine {
          list.insert(v10); 
          list.insert(v6);
          System.out.println(list.getSize());
-        // list.delete(5);
+        // list.delete(5);                   // !!This wil throw the error because of larger index than array
          //System.out.println(list.getSize());
-        // list.traversal();
-        // list.find(v10);
+         list.traversal();            //print out every data in list.
+         list.find(v10);
          System.out.println( list.find(v10));
          list.deleteAll();
          System.out.println(list.isEmpty());
