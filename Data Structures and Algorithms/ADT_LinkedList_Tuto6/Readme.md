@@ -1,7 +1,7 @@
 # Tutorial 6 - ADT LinkedList
 ---
 ### 1. How to compile and run ?
-```{shell}
+```{java}
 javac testVaccine.java
 java testVaccine
 ```
